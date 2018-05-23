@@ -4,7 +4,7 @@
  * Date: 2018/5/16
  */
 
-namespace jonas\layadmin;
+namespace layadmin;
 
 
 use yii\web\AssetBundle;
