@@ -1,0 +1,21 @@
+{
+  "name": "jonas-huang/yii2-layui-admin",
+  "description": "yii2 layui-admin",
+  "type": "library",
+  "version": "1.0.0",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Jonas Huang",
+      "email": "1390580968@qq.com"
+    }
+  ],
+  "require": {
+    "jonas-huang/layui-admin": "dev-master"
+  },
+  "autoload": {
+    "psr-4": {
+      "jonas\\layadmin\\": ""
+    }
+  }
+}
